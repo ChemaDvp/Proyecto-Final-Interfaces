@@ -1,0 +1,205 @@
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.csproj.AssemblyReference.cache
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Styles\ButtonStyles.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Styles\UIColors.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ventana2.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces_MarkupCompile.cache
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces_MarkupCompile.lref
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.exe
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.deps.json
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.runtimeconfig.json
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.pdb
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\App.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ventana2.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.g.resources
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.AssemblyInfoInputs.cache
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.AssemblyInfo.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.csproj.CopyComplete
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\refint\Proyecto2TrimestreInterfaces.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.pdb
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.genruntimeconfig.cache
+C:\Users\Chema-Programacion\source\repos\Interfaces\Proyecto2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ref\Proyecto2TrimestreInterfaces.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.exe
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.deps.json
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.runtimeconfig.json
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.pdb
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.csproj.AssemblyReference.cache
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Styles\ButtonStyles.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Styles\UIColors.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ventana2.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces_MarkupCompile.cache
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces_MarkupCompile.lref
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\App.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ventana2.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.g.resources
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.AssemblyInfoInputs.cache
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.AssemblyInfo.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.csproj.CopyComplete
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\refint\Proyecto2TrimestreInterfaces.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.pdb
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.genruntimeconfig.cache
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ref\Proyecto2TrimestreInterfaces.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\PorductsPage.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\PorductsPage.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ConsultaPage.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\InicioPage.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ConsultaPage.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\InicioPage.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\exitPage.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\exitPage.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.csproj.AssemblyReference.cache
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Styles\ButtonStyles.baml
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Styles\UIColors.baml
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ConsultaPage.g.cs
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\exitPage.g.cs
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\InicioPage.g.cs
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\PorductsPage.g.cs
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ventana2.g.cs
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces_MarkupCompile.cache
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces_MarkupCompile.lref
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\refint\Proyecto2TrimestreInterfaces.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.pdb
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.exe
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.deps.json
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.runtimeconfig.json
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.pdb
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\App.baml
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ConsultaPage.baml
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\exitPage.baml
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\InicioPage.baml
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\PorductsPage.baml
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ventana2.baml
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.g.resources
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.AssemblyInfoInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.AssemblyInfo.cs
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.csproj.CopyComplete
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.genruntimeconfig.cache
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ref\Proyecto2TrimestreInterfaces.dll
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Add.g.cs
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Add.baml
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Delete.g.cs
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Edit.g.cs
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Delete.baml
+C:\Users\ignac\OneDrive\Escritorio\DAM\2\Interfaces\Aplicacion WPF\ProyectoFinal\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Edit.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.exe
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.deps.json
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.runtimeconfig.json
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.pdb
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.csproj.AssemblyReference.cache
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Styles\ButtonStyles.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Styles\UIColors.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Add.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ConsultaPage.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Delete.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Edit.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\exitPage.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\InicioPage.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\PorductsPage.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ventana2.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces_MarkupCompile.cache
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces_MarkupCompile.lref
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\App.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Add.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ConsultaPage.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Delete.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Edit.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\exitPage.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\InicioPage.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\PorductsPage.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ventana2.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.g.resources
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.AssemblyInfoInputs.cache
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.AssemblyInfo.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.csproj.CopyComplete
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\refint\Proyecto2TrimestreInterfaces.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.pdb
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Proyecto2TrimestreInterfaces.genruntimeconfig.cache
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinalInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\ref\Proyecto2TrimestreInterfaces.dll
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Add.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Delete.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Edit.g.cs
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Add.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Delete.baml
+C:\Users\Chema-Programacion\source\repos\Interfaces\ProyectoFinal2TrimestreInterfaces\Proyecto2TrimestreInterfaces\obj\Debug\net6.0-windows\Edit.baml

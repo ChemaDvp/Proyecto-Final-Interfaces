@@ -1,0 +1,31 @@
+﻿<Window x:Class="Proyecto2TrimestreInterfaces.Edit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyecto2TrimestreInterfaces"
+        mc:Ignorable="d"
+        Title="Editar Producto" Height="700" Width="1000">
+    <Grid>
+        <Border Margin="20" Padding="20">
+            <StackPanel>
+                <TextBlock Text="Editar Producto" FontWeight="Bold" FontSize="18" Margin="0 0 0 10"/>
+
+                <!-- DataGrid para mostrar los detalles del producto -->
+                <DataGrid x:Name="dgDetallesProducto" AutoGenerateColumns="True" CanUserAddRows="False" SelectionChanged="dgDetallesProducto_SelectionChanged" SelectionMode="Single" Height="300" Margin="0 0 0 10"/>
+
+                <!-- Controles para editar campos del producto -->
+                <TextBlock Text="Nuevo Nombre:" Margin="0 0 0 5"/>
+                <TextBox x:Name="txtNuevoNombre" Margin="0 0 0 10"/>
+
+                <TextBlock Text="Nuevo Precio:" Margin="0 0 0 5"/>
+                <TextBox x:Name="txtNuevoPrecio" Margin="0 0 0 10"/>
+
+                <TextBlock Text="Nuevo Stock:" Margin="0 0 0 5"/>
+                <TextBox x:Name="txtNuevoStock" Margin="0 0 0 10"/>
+
+                <Button Content="Añadir Cambios" Click="AñadirCambios_Click" Margin="0 10 0 0"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

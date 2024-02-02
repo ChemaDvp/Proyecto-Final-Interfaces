@@ -1,0 +1,24 @@
+﻿<Window x:Class="Proyecto2TrimestreInterfaces.Delete"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyecto2TrimestreInterfaces"
+        mc:Ignorable="d"
+        Title="Eliminar Producto" Height="600" Width="900">
+    <!-- Ajusté la altura y el ancho -->
+
+    <Grid>
+        <Border Margin="20" Padding="20">
+            <StackPanel>
+                <TextBlock Text="Eliminar Producto" FontWeight="Bold" FontSize="18" Margin="0 0 0 10"/>
+
+                <!-- DataGrid para mostrar la lista de productos -->
+                <DataGrid x:Name="dgProductos" AutoGenerateColumns="True" CanUserAddRows="False" SelectionMode="Single" Margin="0 0 0 10" Height="400"/>
+                <!-- Ajusté la altura -->
+
+                <Button Content="Eliminar Producto" Click="EliminarProducto_Click" Margin="0 10 0 0"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

@@ -1,0 +1,43 @@
+﻿<Window x:Class="Proyecto2TrimestreInterfaces.Add"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyecto2TrimestreInterfaces"
+        mc:Ignorable="d"
+        Title="Añadir Producto" Height="700" Width="500">
+    <Grid>
+        <Border Margin="20" Padding="20">
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Text="Nombre del Producto:" Margin="5"/>
+                <TextBox x:Name="txtNombre" Margin="5" Width="200"/>
+
+                <TextBlock Text="Proveedor:" Margin="5"/>
+                <ComboBox x:Name="cmbProveedor" Margin="5" Width="200"/>
+
+                <TextBlock Text="Categoría:" Margin="5"/>
+                <ComboBox x:Name="cmbCategoria" Margin="5" Width="200"/>
+
+                <TextBlock Text="Cantidad por unidad:" Margin="5"/>
+                <TextBox x:Name="txtCantidadPorUnidad" Margin="5" Width="200"/>
+
+                <TextBlock Text="Precio unitario:" Margin="5"/>
+                <TextBox x:Name="txtPrecioUnitario" Margin="5" Width="200"/>
+
+                <TextBlock Text="Unidades en stock:" Margin="5"/>
+                <TextBox x:Name="txtUnidadesEnStock" Margin="5" Width="200"/>
+
+                <TextBlock Text="Unidades en pedido:" Margin="5"/>
+                <TextBox x:Name="txtUnidadesEnPedido" Margin="5" Width="200"/>
+
+                <TextBlock Text="Nivel de reposición:" Margin="5"/>
+                <TextBox x:Name="txtNivelReposicion" Margin="5" Width="200"/>
+
+                <TextBlock Text="Descontinuado:" Margin="5"/>
+                <CheckBox x:Name="chkDescontinuado" Margin="5"/>
+
+                <Button Content="Agregar Producto" Click="AgregarProducto_Click" Margin="5"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

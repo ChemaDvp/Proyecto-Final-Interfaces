@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Add.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ConsultaPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Delete.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Edit.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="exitPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="InicioPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PorductsPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ventana2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Add.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ConsultaPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Delete.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Edit.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="exitPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="InicioPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PorductsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\ButtonStyles.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\UIColors.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ventana2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

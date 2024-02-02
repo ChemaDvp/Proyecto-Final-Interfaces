@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\fondowpf.jpg" />
+    <None Remove="Images\pass.png" />
+    <None Remove="Images\pngegg.png" />
+    <None Remove="Images\user.png" />
+    <None Remove="Images\user3.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FontAwesome.Sharp" Version="6.3.0" />
+    <PackageReference Include="MySql.Data" Version="8.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\fondowpf.jpg" />
+    <Resource Include="Images\pass.png" />
+    <Resource Include="Images\pngegg.png" />
+    <Resource Include="Images\user.png" />
+    <Resource Include="Images\user3.png" />
+  </ItemGroup>
+
+</Project>
